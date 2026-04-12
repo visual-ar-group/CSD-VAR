@@ -1,0 +1,50 @@
+A Road Bicycle
+A Mountain Bicycle
+A Hybrid Bicycle
+A BMX Bicycle
+A Touring Bicycle
+A Electric Bicycle
+A Folding Bicycle
+A Fixed Gear Bicycle
+A Cruiser Bicycle
+A Tandem Bicycle
+A Recumbent Bicycle
+A Fat Tire Bicycle
+A Single-Speed Bicycle
+A Cyclocross Bicycle
+A Gravel Bicycle
+A Track Bicycle
+A Commuter Bicycle
+A Cargo Bicycle
+A Tricycle Bicycle
+A Penny-Farthing Bicycle
+A Racing Bicycle
+A Time Trial Bicycle
+A BMX Freestyle Bicycle
+A Downhill Mountain Bicycle
+A Enduro Bicycle
+A Hardtail Mountain Bicycle
+A Full Suspension Mountain Bicycle
+A Beach Cruiser Bicycle
+A Gravel Adventure Bicycle
+A Touring Tandem Bicycle
+A Vintage Bicycle
+A Carbon Fiber Bicycle
+A Steel Frame Bicycle
+A Alloy Frame Bicycle
+A Bamboo Frame Bicycle
+A Folding Electric Bicycle
+A Step-Through Bicycle
+A Lowrider Bicycle
+A Retro Cruiser Bicycle
+A Track Racing Bicycle
+A Gravel Race Bicycle
+A Ultra-Lightweight Bicycle
+A Fixed Gear Track Bicycle
+A Commuter City Bicycle
+A High-Performance Road Bicycle
+A Folding Commuter Bicycle
+A Long-Distance Touring Bicycle
+A Adaptive Bicycle
+A Child’s Training Bicycle
+A Cargo Utility Bicycle

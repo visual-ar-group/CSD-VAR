@@ -1,0 +1,69 @@
+{
+    "content": {
+        "recontextualization": [
+            "a {}, realistic, 4k, UHD",
+            "a {} in the jungle, realistic, 4k, UHD",
+            "a {} in the snow landscape, realistic, 4k, UHD",
+            "a {} on the beach, realistic, 4k, UHD",
+            "a {} on a table, realistic, 4k, UHD",
+            "a {} floating on a river, realistic, 4k, UHD",
+            "a {} in downtown, realistic, 4k, UHD",
+            "a {} with a mountain in the background, realistic, 4k, UHD",
+            "a {} with a wheat field in the background, realistic, 4k, UHD",
+            "a {} with a tree and autumn leaves in the background, realistic, 4k, UHD",
+            "a {} with the Eiffel Tower in the background, realistic, 4k, UHD",
+            "a {} in the desert, realistic, 4k, UHD",
+            "a {} in space, realistic, 4k, UHD",
+            "a {} in the sky, realistic, 4k, UHD",
+            "a {} in the swimming pool, realistic, 4k, UHD",
+            "a {} on the boat, realistic, 4k, UHD"
+        ],
+        "non-rigid": [
+            "a sad {}, realistic, 4k, UHD",
+            "an angry {}, realistic, 4k, UHD",
+            "a running {}, realistic, 4k, UHD",
+            "a jumping {}, realistic, 4k, UHD",
+            "a {} is lying down, realistic, 4k, UHD",
+            "a {} on the boat, realistic, 4k, UHD",
+            "a {} wearing headphones, realistic, 4k, UHD",
+            "a {} wearing sunglasses, realistic, 4k, UHD",
+            "a {} wearing a Santa hat, realistic, 4k, UHD",
+            "a {} playing with a ball, realistic, 4k, UHD"
+        ],
+        "stylization": [
+            "a {} in sticker style",
+            "a {} in pixel art style",
+            "a {} in anime style",
+            "a {} in oil painting style",
+            "a {} in watercolor style",
+            "a {} in graffiti style",
+            "a {} made of gold",
+            "a {} made of silver",
+            "a {} made of glass, crystal"
+        ]
+
+    },
+    "style": [
+        "a dog in {} style",
+        "a cat in {} style",
+        "a dinosaur in {} style",
+        "a rabbit in {} style",
+        "a capybara in {} style",
+        "a dragon in {} style",
+        "a castle in {} style",
+        "a robot in {} style",
+        "a deer in {} style",
+        "a bedroom in {} style",
+        "a truck in {} style",
+        "a chair in {} style",
+        "a car in {} style",
+        "a flower in {} style",
+        "a piano in {} style",
+        "a crown in {} style",
+        "a bus in {} style",
+        "a person texting in {} style",
+        "a laptop in {} style",
+        "a lighthouse in {} style",
+        "a coffee cup in {} style"
+    ]
+}

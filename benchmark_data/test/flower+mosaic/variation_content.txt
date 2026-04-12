@@ -1,0 +1,50 @@
+A Rose
+A Tulip
+A Sunflower
+A Daisy
+A Orchid
+A Lily
+A Lotus
+A Peony
+A Marigold
+A Daffodil
+A Carnation
+A Jasmine
+A Hibiscus
+A Poppy
+A Lavender
+A Chrysanthemum
+A Geranium
+A Hydrangea
+A Begonia
+A Camellia
+A Anemone
+A Bluebell
+A Petunia
+A Zinnia
+A Snapdragon
+A Forget-Me-Not
+A Dahlia
+A Azalea
+A Morning Glory
+A Calla Lily
+A Bleeding Heart
+A Foxglove
+A Sweet Pea
+A Wisteria
+A Gardenia
+A Freesia
+A Aster
+A Magnolia
+A Cosmos
+A Delphinium
+A Crocus
+A Primrose
+A Buttercup
+A Bird of Paradise
+A Snowdrop
+A Iris
+A Lupine
+A Yarrow
+A Edelweiss
+A Amaryllis

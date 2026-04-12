@@ -1,0 +1,16 @@
+{
+    "content": {
+        "recontextualization": [
+            "a {} on the beach, realistic, 4k, UHD"
+        ],
+        "non-rigid": [
+            "a {} wearing sunglasses, realistic, 4k, UHD"
+        ],
+        "stylization": [
+            "a {} in sticker style"
+        ]
+    },
+    "style": [
+        "a dog in {} style"
+    ]
+}

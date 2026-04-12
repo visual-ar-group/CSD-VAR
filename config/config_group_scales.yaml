@@ -1,0 +1,9 @@
+# Configuration for prompt tuning
+name: "main_group_scales"
+selected_scales: [0, 3] 
+num_virtual_tokens_per_scale: 1  # Number of virtual tokens per scale
+add_mode: "group_scales"  # Mode for adding tokens: "selected_single_scales" or "group_scales"
+deep: 
+  - is_deep: false
+  - mode_layer: "all" # "all" or "half"
+init_zeros: false  # Whether to initialize virtual tokens with zeros

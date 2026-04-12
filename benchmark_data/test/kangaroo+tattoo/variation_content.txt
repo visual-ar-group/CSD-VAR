@@ -1,0 +1,50 @@
+A Red Kangaroo
+A Eastern Grey Kangaroo
+A Western Grey Kangaroo
+A Antilopine Kangaroo
+A Tree Kangaroo
+A Lumholtz’s Tree Kangaroo
+A Bennett’s Tree Kangaroo
+A Goodfellow’s Tree Kangaroo
+A Doria’s Tree Kangaroo
+A Grizzled Tree Kangaroo
+A Matschie’s Tree Kangaroo
+A Black Tree Kangaroo
+A Dingiso Kangaroo
+A Golden-Mantled Tree Kangaroo
+A Agile Wallaby
+A Swamp Wallaby
+A Tammar Wallaby
+A Rock Wallaby
+A Parma Wallaby
+A Bridled Nail-Tail Wallaby
+A Yellow-Footed Rock Wallaby
+A Red-Necked Wallaby
+A Whiptail Wallaby
+A Black-Striped Wallaby
+A Nail-Tail Wallaby
+A Spectacled Hare Wallaby
+A Brush-Tailed Rock Wallaby
+A Short-Eared Rock Wallaby
+A Mareeba Rock Wallaby
+A Purple-Necked Rock Wallaby
+A Tasmanian Forester Kangaroo
+A Northern Nail-Tail Wallaby
+A Western Brush Wallaby
+A Desert Wallaby
+A Plain’s Wallaby
+A White Kangaroo
+A Albino Kangaroo
+A Melanistic Kangaroo
+A Giant Kangaroo
+A Mountain Kangaroo
+A Bennett’s Kangaroo
+A Proserpine Rock Wallaby
+A Tiwi Islands Rock Wallaby
+A White-Striped Wallaby
+A Island Wallaby
+A Rufous-Bellied Wallaby
+A Musky Rat-Kangaroo
+A Rat-Kangaroo
+A Bettong Kangaroo
+A Potoroo Kangaroo

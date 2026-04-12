@@ -1,0 +1,210 @@
+A Sedan
+A Coupe
+A Convertible
+A Hatchback
+A SUV
+A Crossover
+A Pickup
+A Van
+A Minivan
+A Roadster
+A Limousine
+A Sports Car
+A Muscle Car
+A Station Wagon
+A Off-Roader
+A Microcar
+A Electric Car
+A Hybrid Car
+A Plug-in Hybrid
+A Fuel Cell Car
+A Compact Car
+A Subcompact Car
+A Midsize Car
+A Full-size Car
+A Luxury Car
+A Executive Car
+A City Car
+A Kei Car
+A Grand Tourer
+A Cabriolet
+A Targa Top
+A Hardtop Convertible
+A Fastback
+A Shooting Brake
+A Pony Car
+A Hot Hatch
+A Supercar
+A Hypercar
+A Concept Car
+A Kit Car
+A Custom Car
+A Classic Car
+A Vintage Car
+A Antique Car
+A Collector Car
+A Rally Car
+A Drift Car
+A Touring Car
+A Formula Car
+A Go-Kart
+A Microvan
+A Panel Van
+A Cargo Van
+A Camper Van
+A Step Van
+A Box Truck
+A Pickup Truck
+A Monster Truck
+A Tow Truck
+A Dump Truck
+A Fire Truck
+A Police Car
+A Taxi
+A Race Car
+A Dragster
+A Funny Car
+A Stock Car
+A IndyCar
+A Baja Bug
+A Dune Buggy
+A Beach Buggy
+A Sand Rail
+A Sedan
+A Coupe
+A Convertible
+A Hatchback
+A SUV
+A Crossover
+A Pickup
+A Van
+A Minivan
+A Roadster
+A Limousine
+A Sports Car
+A Muscle Car
+A Station Wagon
+A Off-Roader
+A Microcar
+A Electric Car
+A Hybrid Car
+A Plug-in Hybrid
+A Fuel Cell Car
+A Compact Car
+A Subcompact Car
+A Midsize Car
+A Full-size Car
+A Luxury Car
+A Executive Car
+A City Car
+A Kei Car
+A Grand Tourer
+A Cabriolet
+A Targa Top
+A Hardtop Convertible
+A Fastback
+A Shooting Brake
+A Pony Car
+A Hot Hatch
+A Supercar
+A Hypercar
+A Concept Car
+A Kit Car
+A Custom Car
+A Classic Car
+A Vintage Car
+A Antique Car
+A Collector Car
+A Rally Car
+A Drift Car
+A Touring Car
+A Formula Car
+A Go-Kart
+A Microvan
+A Panel Van
+A Cargo Van
+A Camper Van
+A Step Van
+A Box Truck
+A Pickup Truck
+A Monster Truck
+A Tow Truck
+A Dump Truck
+A Fire Truck
+A Police Car
+A Taxi
+A Race Car
+A Dragster
+A Funny Car
+A Stock Car
+A IndyCar
+A Baja Bug
+A Dune Buggy
+A Beach Buggy
+A Sand Rail
+A Rock Crawler
+A Military Vehicle
+A Armored Car
+A Amphibious Car
+A Hovercar
+A Solar Car
+A Self-Driving Car
+A Autonomous Vehicle
+A Smart Car
+A Flex-fuel Car
+A Diesel Car
+A Gasoline Car
+A Biofuel Car
+A Hydrogen Car
+A Commuter Car
+A Shuttle Bus
+A School Bus
+A Minibus
+A Coach Bus
+A Off-road Buggy
+A 4x4
+A AWD Vehicle
+A RWD Vehicle
+A FWD Vehicle
+A Utility Vehicle
+A High-Performance Car
+A Rallycross Car
+A Drift-spec Car
+A Track Car
+A Street Rod
+A Rat Rod
+A Lowrider
+A Tuner Car
+A Rock Crawler
+A Military Vehicle
+A Armored Car
+A Amphibious Car
+A Hovercar
+A Solar Car
+A Self-Driving Car
+A Autonomous Vehicle
+A Smart Car
+A Flex-fuel Car
+A Diesel Car
+A Gasoline Car
+A Biofuel Car
+A Hydrogen Car
+A Commuter Car
+A Shuttle Bus
+A School Bus
+A Minibus
+A Coach Bus
+A Off-road Buggy
+A 4x4
+A AWD Vehicle
+A RWD Vehicle
+A FWD Vehicle
+A Utility Vehicle
+A High-Performance Car
+A Rallycross Car
+A Drift-spec Car
+A Track Car
+A Street Rod
+A Rat Rod
+A Lowrider
+A Tuner Car

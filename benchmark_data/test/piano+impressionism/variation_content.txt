@@ -1,0 +1,50 @@
+A Grand Piano
+A Baby Grand Piano
+A Concert Grand Piano
+A Upright Piano
+A Studio Upright Piano
+A Spinet Piano
+A Console Piano
+A Digital Piano
+A Hybrid Piano
+A Player Piano
+A Silent Piano
+A TransAcoustic Piano
+A Electric Piano
+A Synthesizer Piano
+A Stage Piano
+A MIDI Controller Piano
+A Self-Playing Piano
+A Harpsichord Piano
+A Clavichord Piano
+A Fortepiano
+A Prepared Piano
+A Toy Piano
+A Quarter-Tone Piano
+A Microtonal Piano
+A Glass Piano
+A Bent Piano
+A Folding Piano
+A Portable Digital Piano
+A Weighted Keyboard Piano
+A Semi-Weighted Keyboard Piano
+A Hammer-Action Keyboard Piano
+A Rhodes Piano
+A Wurlitzer Piano
+A Yamaha Clavinova Piano
+A Kawai Hybrid Piano
+A Roland Digital Piano
+A Casio Privia Piano
+A Bösendorfer Grand Piano
+A Steinway & Sons Piano
+A Fazioli Grand Piano
+A Bechstein Piano
+A Blüthner Piano
+A Baldwin Piano
+A Mason & Hamlin Piano
+A Chickering Piano
+A Petrof Piano
+A Estonia Piano
+A Schimmel Piano
+A Korg Digital Piano
+A Nord Stage Piano
